@@ -1,0 +1,12 @@
+Dyer Tonopah 70
+Tonopah WarmSpring 55
+Dyer SilverPea 25
+SilverPea Goldfield 20
+Goldfield Tonopah 30
+SilverPea Lida 21
+Lida Goldfield 12
+Lida Beatty 45
+SilverPea Oasis 10
+Oasis DeepSprings 15
+DeepSprings GoldPoint 50
+GoldPoint Beatty 35
